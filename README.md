@@ -7,10 +7,10 @@
 ## 教程
 [项目教程][1]
 ## 用到的文档
-[高德 JavaScript API 帮助文档][2]
-[高德 JavaScript API 示例中心][3]
-[Requests: HTTP for Humans][4]
-[Beautiful Soup 4.2.0 文档][5]
+* [高德 JavaScript API 帮助文档][2] 
+* [高德 JavaScript API 示例中心][3]
+* [Requests: HTTP for Humans][4]
+* [Beautiful Soup 4.2.0 文档][5]
 
 本项目爬虫方面不难，主要是高德JavaScript API的使用，要学会使用第三方API，要对JS有一定的基础
 
