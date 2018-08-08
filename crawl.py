@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-url = "http://sh.58.com/pinpaigongyu/pn/{page}/?minprice=600_1000"
+url = "http://sh.58.com/pinpaigongyu/pn/{page}/?minprice=2000_3000"
 
 # 已完成的页面序号，初始为1
 page = 1
